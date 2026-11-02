@@ -1,0 +1,3 @@
+decision,customer_count,average_risk,average_confidence,percentage
+Approve,1807,29.39586270203984,0.6430490444308131,18.07
+Human Review,8193,38.3441851667607,0.3487266017227708,81.93

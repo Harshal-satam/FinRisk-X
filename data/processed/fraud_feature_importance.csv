@@ -1,0 +1,24 @@
+Feature,Importance
+hour,0.47787145
+spending_24h,0.03817973
+amount,0.031609375
+is_weekend,0.026128067
+seconds_since_previous,0.025811737
+amount_deviation,0.025647778
+device_changed,0.024719719
+transaction_type_Online,0.02447124
+day_of_week,0.02413202
+merchant_category_Travel,0.023664868
+transaction_type_UPI,0.023447072
+merchant_category_Grocery,0.023250908
+merchant_category_Electronics,0.022749156
+transaction_type_ATM,0.022603123
+transactions_24h,0.022577522
+merchant_category_Food,0.022135152
+merchant_category_Financial,0.022045542
+merchant_category_Healthcare,0.021170659
+merchant_category_Utilities,0.021077927
+merchant_category_Retail,0.021039553
+transaction_type_Card,0.020377612
+transaction_type_Bank Transfer,0.019643297
+merchant_category_Entertainment,0.015646424

@@ -1,0 +1,5 @@
+employment_type,customer_count,high_risk_rate,average_risk_score,risk_rate_ratio,risk_rate_difference,fairness_review
+Business Owner,1540,4.935064935064935,36.37486530066464,1.0,0.0,No Significant Disparity
+Contract,962,5.50935550935551,36.56180357523541,1.1163694058430902,0.5742905742905746,No Significant Disparity
+Salaried,5488,6.122448979591836,36.77011082529581,1.2406015037593983,1.187384044526901,No Significant Disparity
+Self-Employed,2010,6.4179104477611935,36.95926226976766,1.3004713275726627,1.482845512696258,Review Required

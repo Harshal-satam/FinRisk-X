@@ -1,0 +1,11 @@
+Metric,Value
+Number of Customers,10000.0
+Average FinRisk Score,36.72722329738564
+Median FinRisk Score,35.32162590647033
+Minimum FinRisk Score,18.663046458338297
+Maximum FinRisk Score,65.84146005311649
+Average Credit Risk,32.3727959232
+Average Temporal Risk,32.2063957893
+Average Fraud Risk,51.96233719599442
+Average Graph Risk,25.663163128739992
+Average Financial Health Risk,37.340460938839286
